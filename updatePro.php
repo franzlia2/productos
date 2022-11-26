@@ -113,7 +113,7 @@
                                
 
                     <div class="grupo">
-                        <label for="">Nombre Producto</label><br><br>
+                        <label for="">Nombres Productos</label><br><br>
                         <input type="text" name="Nombre" id="Nombre" required value="<?php echo $fila['Nombre'];?>"><span class="barra"></span>
                     </div>
 
